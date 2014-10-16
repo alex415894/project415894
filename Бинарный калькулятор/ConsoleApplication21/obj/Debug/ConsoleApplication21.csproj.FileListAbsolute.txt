@@ -1,0 +1,9 @@
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
