@@ -10,3 +10,6 @@ C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication13
 C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
 C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
 C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
