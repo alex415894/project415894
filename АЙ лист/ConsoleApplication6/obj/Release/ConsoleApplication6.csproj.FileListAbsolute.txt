@@ -1,0 +1,5 @@
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.exe.config
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.exe
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.pdb
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Release\ConsoleApplication6.exe
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\obj\Release\ConsoleApplication6.pdb
