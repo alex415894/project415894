@@ -17,7 +17,7 @@ namespace ConsoleApplication21
         string Znak = null;
         string Znak_2 = null;
         string Znak_Function = null;
-       
+
         double MemoryL1_Result = 0;
         double MemoryL1_Result_2 = 0;
         string MemoryL1_Znak = null;
@@ -37,10 +37,10 @@ namespace ConsoleApplication21
         string MemoryL3_Znak_Function = null;
 
         double CounterBrackets = 0;
-              
-        
 
-       void Deistvie()
+
+
+        void Deistvie()
         {
             Console.WriteLine("Уровень 1");
             Nabor = Nabor + Convert.ToDouble(Chislo);
@@ -77,7 +77,7 @@ namespace ConsoleApplication21
             Nabor = 0;
 
         }
-       void Deistvie2()
+        void Deistvie2()
         {
             Console.WriteLine("Уровень 2");
             Nabor = Nabor + Convert.ToDouble(Chislo);
@@ -100,7 +100,7 @@ namespace ConsoleApplication21
             }
             Nabor = 0;
         }
-       void DeistvieFunction()
+        void DeistvieFunction()
         {
             switch (Znak_Function)
             {
@@ -124,23 +124,23 @@ namespace ConsoleApplication21
                         Nabor = 1 / Math.Tan(Nabor * Math.PI / 180);
                     }
                     break;
-             }
+            }
             Znak_Function = null;
             Console.WriteLine("cos/sin/tg/ctg(nabor)=" + Nabor);
         }
-       void DeistvieFindTheResult()
+        void DeistvieFindTheResult()
         {
-           
+
             if (Znak_2 == "*" || Znak_2 == "/")
             {
                 Deistvie2();
                 Znak_2 = null;
             }
             Deistvie();
-            Znak = null; 
-           
+            Znak = null;
+
         }
-       void MemoryUP_L1()
+        void MemoryUP_L1()
         {
             MemoryL1_Result = Result;
             Result = 0;
@@ -153,12 +153,12 @@ namespace ConsoleApplication21
             MemoryL1_Znak_Function = Znak_Function;
             Znak_Function = null;
         }
-       void MemoryDOWN_L1()
+        void MemoryDOWN_L1()
         {
             DeistvieFindTheResult();
             Nabor = Result;
             Result = 0;
-            
+
             Result = MemoryL1_Result;
             MemoryL1_Result = 0;
             Result_2 = MemoryL1_Result_2;
@@ -170,7 +170,7 @@ namespace ConsoleApplication21
             Znak_Function = MemoryL1_Znak_Function;
             MemoryL1_Znak_Function = null;
 
-            Chislo = null;                      
+            Chislo = null;
 
             Console.WriteLine("         mem down_1 Result=" + Result);
             Console.WriteLine("         mem down_1 Result_2=" + Result_2);
@@ -178,35 +178,35 @@ namespace ConsoleApplication21
             Console.WriteLine("         mem down_1 Znak_2=" + Znak_2);
             Console.WriteLine("         mem down_1 Nabor=" + Nabor);
         }
-       void MemoryUP_L2()
+        void MemoryUP_L2()
         {
             MemoryL2_Result = Result;
-                    Result = 0;
+            Result = 0;
             MemoryL2_Result_2 = Result_2;
-                    Result_2 = 0;
+            Result_2 = 0;
             MemoryL2_Znak = Znak;
-                    Znak = null;
+            Znak = null;
             MemoryL2_Znak_2 = Znak_2;
-                     Znak_2 = null;
-                     MemoryL2_Znak_Function = Znak_Function;
-                     Znak_Function = null;
+            Znak_2 = null;
+            MemoryL2_Znak_Function = Znak_Function;
+            Znak_Function = null;
         }
-       void MemoryDOWN_L2()
+        void MemoryDOWN_L2()
         {
             DeistvieFindTheResult();
             Nabor = Result;
             Result = 0;
-           
-              Result = MemoryL2_Result;
-                       MemoryL2_Result = 0;
+
+            Result = MemoryL2_Result;
+            MemoryL2_Result = 0;
             Result_2 = MemoryL2_Result_2;
-                       MemoryL2_Result_2 = 0;
-                Znak = MemoryL2_Znak;
-                       MemoryL2_Znak = null;
-              Znak_2 = MemoryL2_Znak_2;
-                       MemoryL2_Znak_2 = null;
-       Znak_Function = MemoryL2_Znak_Function;
-                       MemoryL2_Znak_Function = null;
+            MemoryL2_Result_2 = 0;
+            Znak = MemoryL2_Znak;
+            MemoryL2_Znak = null;
+            Znak_2 = MemoryL2_Znak_2;
+            MemoryL2_Znak_2 = null;
+            Znak_Function = MemoryL2_Znak_Function;
+            MemoryL2_Znak_Function = null;
 
             Chislo = null;
 
@@ -216,7 +216,7 @@ namespace ConsoleApplication21
             Console.WriteLine("         mem down_2 Znak_2=" + Znak_2);
             Console.WriteLine("         mem down_2 Nabor=" + Nabor);
         }
-       void MemoryUP_L3()
+        void MemoryUP_L3()
         {
             MemoryL3_Result = Result;
             Result = 0;
@@ -229,22 +229,22 @@ namespace ConsoleApplication21
             MemoryL3_Znak_Function = Znak_Function;
             Znak_Function = null;
         }
-       void MemoryDOWN_L3()
+        void MemoryDOWN_L3()
         {
             DeistvieFindTheResult();
             Nabor = Result;
             Result = 0;
 
-               Result = MemoryL3_Result;
-                        MemoryL3_Result = 0;
-             Result_2 = MemoryL3_Result_2;
-                        MemoryL3_Result_2 = 0;
-                 Znak = MemoryL3_Znak;
-                        MemoryL3_Znak = null;
-               Znak_2 = MemoryL3_Znak_2;
-                        MemoryL3_Znak_2 = null;
-        Znak_Function = MemoryL3_Znak_Function;
-                        MemoryL3_Znak_Function = null;
+            Result = MemoryL3_Result;
+            MemoryL3_Result = 0;
+            Result_2 = MemoryL3_Result_2;
+            MemoryL3_Result_2 = 0;
+            Znak = MemoryL3_Znak;
+            MemoryL3_Znak = null;
+            Znak_2 = MemoryL3_Znak_2;
+            MemoryL3_Znak_2 = null;
+            Znak_Function = MemoryL3_Znak_Function;
+            MemoryL3_Znak_Function = null;
 
             Chislo = null;
 
@@ -254,9 +254,9 @@ namespace ConsoleApplication21
             Console.WriteLine("         mem down_3 Znak_2=" + Znak_2);
             Console.WriteLine("         mem down_3 Nabor=" + Nabor);
         }
-       void Calculation()
-       {
-           for (int i = 0; i < Value.Length; i++)
+        void Calculation()
+        {
+            for (int i = 0; i < Value.Length; i++)
             {
                 switch (Value[i])
                 {
@@ -282,19 +282,19 @@ namespace ConsoleApplication21
                     case 'n':
                     case 't':
                     case 'g':
-                       {
-                           Znak_Function = Znak_Function + Convert.ToString(Value[i]);
+                        {
+                            Znak_Function = Znak_Function + Convert.ToString(Value[i]);
                         }
                         break;
                     case '(':
                         {
                             CounterBrackets++;
-                            if (CounterBrackets==1)
-                                 MemoryUP_L1();
-                            else if (CounterBrackets==2)
-                                 MemoryUP_L2();
-                            else if (CounterBrackets==3)
-                                 MemoryUP_L3();
+                            if (CounterBrackets == 1)
+                                MemoryUP_L1();
+                            else if (CounterBrackets == 2)
+                                MemoryUP_L2();
+                            else if (CounterBrackets == 3)
+                                MemoryUP_L3();
                         }
                         break;
                     case ')':
@@ -310,7 +310,7 @@ namespace ConsoleApplication21
                                 DeistvieFunction();
                             }
                             CounterBrackets--;
-                           
+
                         }
                         break;
                     case '+':
@@ -351,11 +351,11 @@ namespace ConsoleApplication21
                         }
                         break;
                 }
-           }
-           }
-       public void Symbol()
+            }
+        }
+        public void Symbol()
         {
-                       //Value = "(2*3)+(10*6)+600-(56-53)*4-33*3+45+800*cos(60)";
+            //Value = "(2*3)+(10*6)+600-(56-53)*4-33*3+45+800*cos(60)";
             //Value = "5*(800+2*(10+9*(3+7)))";
             //Value = "cos(60)+1+cos(0,5-cos(120*cos(40+20)))";
             //Value = "cos(0)";

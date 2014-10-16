@@ -1,0 +1,3 @@
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+C:\git\project415894\Бинарный калькулятор\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
