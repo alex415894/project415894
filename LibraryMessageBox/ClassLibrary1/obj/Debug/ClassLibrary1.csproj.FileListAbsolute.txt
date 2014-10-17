@@ -1,0 +1,15 @@
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\alex\desktop\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\git\project415894\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\git\project415894\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\git\project415894\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\git\project415894\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\git\project415894\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\git\project415894\LibraryMessageBox\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\git\project415894\LibraryMessageBox\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\git\project415894\LibraryMessageBox\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\git\project415894\LibraryMessageBox\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\git\project415894\LibraryMessageBox\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

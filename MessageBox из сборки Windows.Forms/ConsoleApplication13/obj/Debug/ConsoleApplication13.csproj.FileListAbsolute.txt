@@ -13,3 +13,11 @@ C:\Users\alex\Desktop\Documents\Visual Studio 2013\Projects\ConsoleApplication13
 C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
 C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
 C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\System.Windows.Forms.4.0.0.0.Fakes.fakesconfig
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ClassLibrary1.pdb
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojFakesResolveAssemblyReference.cache
+C:\git\project415894\MessageBox из сборки Windows.Forms\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache

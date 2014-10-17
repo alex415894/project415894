@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ClassLibrary48
+namespace LibraryMessageBox
 {
        
-    public class Class48
+    public class MessageBox_Show
      {
         public void Show ()
          {
