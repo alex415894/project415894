@@ -47,9 +47,10 @@ namespace BinaryCalculator
                         break;
                     default:
                         {
+                            
                             Console.WriteLine("!!!Символ не прочитан. Была допущена ошибка ввода символа!!!");
                         }
-                        break;
+                       break;
                 }
                 Console.WriteLine("Value");
                 Calculate Calc = new Calculate();
